@@ -1,0 +1,178 @@
+[
+{
+    "id": 1,
+    "titre": "Stareyes",
+    "description": "Stareyes est une agence web spécialisée dans la création de sites internet, en mettant principalement l'accent sur l'utilisation de systèmes de gestion de contenu (CMS). Dans le cadre de ce projet, une proposition de refonte de l'expérience utilisateur (UX) et de l'interface utilisateur (UI) a été développée, bien que cette proposition n'ait pas encore été soumise à l'entreprise.",
+    "challenge": "Le challenge de ce projet résidait dans la refonte complète du site web de la marque Stareyes. Il fallait relever le défi de créer une expérience utilisateur améliorée tout en conservant l'identité visuelle de la marque.",
+    "goal": "L'objectif était de rendre la navigation sur le site plus intuitive et conviviale, afin de permettre aux utilisateurs de trouver facilement les informations recherchées et d'interagir de manière fluide avec le contenu.",
+    "result": "Le résultat final du projet Stareyes est un site web entièrement revu et repensé, offrant une expérience utilisateur améliorée. La recherche graphique approfondie a permis de créer une interface esthétiquement attrayante, tout en maintenant la cohérence avec l'image de marque de Stareyes. L'arborescence du site a été réorganisée de manière logique, ce qui facilite la navigation des utilisateurs et leur permet d'accéder rapidement aux différentes sections du site.",
+    "img_maquette": "maquette_Stareyes.png",
+    "img_ref": "Stareyes.png",
+    "couleurs": {
+      "couleur1": {"hex": "#2A82DA", "nom": "Bleu"},
+      "couleur2": {"hex": "#1D1D1D", "nom": "Noir"},
+      "couleur3": {"hex": "#F2F2F2", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Bebas Neue",
+    "typo2": "Outfit",
+    "timeline": "2 semaines",
+    "url": "https://leo-graton.fr",
+    "website": "https://leo-graton.fr",
+    "category": "UX design"
+  },
+  {
+    "id": 2,
+    "titre": "Dodai",
+    "description": "Le projet Dodai consistait à créer une identité visuelle et un site web sur Wordpress pour un coach sportif. Dans le cadre de ce projet, nous avons commencé par développer une maquette de la page d'accueil afin de lui donner un aperçu de ce qui allait être réalisé.",
+    "challenge": "Le challenge du projet Dodai résidait dans la création d'un site web efficace pour un coach sportif. L'objectif principal était de concevoir une maquette qui permettra au coach de promouvoir ses services et de partager ses conseils et astuces avec ses clients.",
+    "goal": "L’objectif consistait à comprendre les besoins et les préférences du coach en termes de design et d'identité visuelle. La création de la charte graphique, comprenant le choix des couleurs, du logo et des typographies, était une étape cruciale pour refléter le style et la personnalité du coach tout en garantissant une esthétique professionnelle.",
+    "result": "Le résultat final était une maquette de site web de haute qualité, offrant une interface attrayante et professionnelle. Cette maquette a été approuvée par le coach et servira de base pour le développement du site web complet. Grâce à ce projet, le coach dispose désormais d'un outil précieux pour promouvoir ses services et attirer de nouveaux clients, en fournissant une plateforme conviviale et informative.",
+    "img_maquette": "maquette_Dodai.png",
+    "img_ref": "Dodai.png",
+    "couleurs": {
+      "couleur1": {"hex": "#D82020", "nom": "Rouge"},
+      "couleur2": {"hex": "#161616", "nom": "Noir"},
+      "couleur3": {"hex": "#1C1C1C", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Barlow",
+    "typo2": "Outfit",
+    "timeline": "1 mois",
+    "url": "https://www.dodai-prog.fr/",
+    "website": "https://www.dodai-prog.fr/",
+    "category": "UI design"
+  },
+  {
+    "id": 3,
+    "titre": "CuistO",
+    "description": "Le projet Cusit’O que nous avons entrepris, était la création d'une application complète destinée aux gestionnaires de cuisine. L'objectif principal de cette application était de simplifier les tâches sanitaires pour les cuisiniers en offrant plusieurs fonctionnalités essentielles. Nous avions 1 mois pour faire cette application.",
+    "challenge": "Le défi principal du projet Cuist’O était de créer une application complète destinée aux gestionnaires de cuisine, en se concentrant sur la simplification des tâches sanitaires pour les cuisiniers. Il était essentiel de concevoir des fonctionnalités efficaces pour la gestion des frigos et des températures, afin de garantir le respect des normes sanitaires. La mise en place d'un système d'alertes en cas de variations de température anormales a également représenté un challenge technique pour assurer une réactivité optimale des cuisiniers.",
+    "goal": "L'objectif principal de l'application Cuist’O créée avec React.js était de faciliter les tâches sanitaires pour les cuisiniers et les gestionnaires de cuisine. La gestion des frigos et des températures permettait aux utilisateurs de surveiller et de contrôler facilement les conditions de stockage des aliments, garantissant ainsi la conformité aux normes sanitaires. L'ajout de la fonctionnalité de réception des marchandises offrait une traçabilité optimale et permettait de détecter rapidement les problèmes de qualité ou de non-conformité. L'application visait à automatiser ces processus, simplifier les opérations et contribuer à l'amélioration de la sécurité alimentaire.",
+    "result": "Le résultat final du projet Cuist’O était une application complète, robuste et agréable, qui a considérablement simplifié et automatisé les tâches sanitaires pour les cuisiniers et les gestionnaires de cuisine. La gestion des frigos et des températures, combinée à la fonctionnalité d'alertes, a permis une surveillance proactive et une intervention rapide en cas de variations anormales. L'ajout de la fonctionnalité de réception des marchandises à améliorer la traçabilité des produits et a facilité la détection des problèmes de qualité. Dans l'ensemble, l'application a contribué à renforcer la sécurité alimentaire.",
+    "img_maquette": "maquette_CuistO.png",
+    "img_ref": "CuistO.png",
+    "couleurs": {
+      "couleur1": {"hex": "#5E7CE2", "nom": "Bleu"},
+      "couleur2": {"hex": "#272727", "nom": "Noir"},
+      "couleur3": {"hex": "#D9D9D9", "nom": "Gris"},
+      "couleur4": {"hex": "#F3F3F3", "nom": "Blanc"}
+    },
+    "typo1": "Oswald",
+    "typo2": "Oswald",
+    "timeline": "1 mois",
+    "url": "http://cuisto.leo-graton.fr",
+    "website": "http://cuisto.leo-graton.fr",
+    "category": "React"
+  },
+  {
+    "id": 4,
+    "titre": "La jungle de leo",
+    "description": "Lors de ma formation FullStack JavaScript je voulais m’entrainer en créant un side project style Portfolio ou Site d’Agence seulement avec Node.js\nJ’ai utilisé EJS comme moteur de rendu front et CSS tout le reste en Javacript.",
+    "challenge": "Le principal défi auquel j'ai été confronté lors de la création de mon portfolio avec Node.js dans le cadre de ma formation de développeur Fullstack JavaScript était de concevoir et développer une application complète en utilisant uniquement Node.js. Il m'a fallu relever le défi technique de créer des maquettes graphiques attrayantes et de les intégrer dans mon application, en exploitant les fonctionnalités et les modules offerts par Node.js.",
+    "goal": "Le but principal de ce projet était de m'entraîner et de pratiquer le code en créant mon propre portfolio avec Node.js. En concevant des maquettes graphiques, j'ai pu affiner mes compétences en design et en expérience utilisateur. Le développement de l'application m'a permis de mettre en pratique mes connaissances en programmation avec Node.js, en travaillant sur la logique de l'application, la gestion des données et les fonctionnalités interactives.",
+    "result": "Le résultat final de ce projet a été la création réussie d'un portfolio fonctionnel réalisé entièrement avec Node.js. Grâce à la conception des maquettes graphiques et au développement de l'application, j'ai pu améliorer mes compétences en design, en développement front-end et en back-end. Mon portfolio personnalisé a été un excellent moyen de mettre en valeur mes compétences et mes projets antérieurs, tout en démontrant ma maîtrise de Node.js en tant que technologie de développement. Ce projet m'a permis de renforcer ma confiance en mes compétences et de me constituer une vitrine professionnelle solide pour ma carrière de développeur Fullstack JavaScript.",
+    "img_maquette": "maquette_Portfolio.png",
+    "img_ref": "Portfolio.png",
+    "couleurs": {
+      "couleur1": {"hex": "#5158BB", "nom": "Violet"},
+      "couleur2": {"hex": "#191716", "nom": "Noir"},
+      "couleur3": {"hex": "#E0E2DB", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Playfair Display",
+    "typo2": "Lato",
+    "timeline": "3 semaines",
+    "url": "https://leo-graton.fr",
+    "website": "https://leo-graton.fr",
+    "category": "Node"
+  },
+  {
+    "id": 5,
+    "titre": "Atlanticraft",
+    "description": "AtlantiCraft, entreprise spécialisée dans la vente de bateaux semi-rigides de qualité supérieure, offre des solutions marines exceptionnelles tant aux particuliers qu'aux entreprises. Forte de son savoir-faire et de son expérience, AtlantiCraft s'est imposée comme un acteur majeur dans le domaine, fournissant des embarcations robustes et fiables.",
+    "challenge": "Le défi majeur de ce projet résidait dans la refonte complète du site internet d'AtlantiCraft. Le principal objectif était de créer une expérience d'achat en ligne intuitive et conviviale, permettant aux clients de naviguer facilement à travers un large éventail de produits semi-rigides. Il s'agissait d'optimiser le parcours d'achat, offrant des sélections de produits claires tout en reflétant le professionnalisme et la qualité des bateaux d'AtlantiCraft.",
+    "goal": "L'objectif principal pour AtlantiCraft était de simplifier le processus d'achat en ligne, rendant la navigation sur le site aussi fluide que possible. Le client souhaitait également mettre en valeur la diversité de sa gamme de bateaux semi-rigides et permettre aux visiteurs de faire des choix éclairés grâce à des sélections précises et des informations détaillées sur chaque produit.",
+    "result": "La refonte du site internet d'AtlantiCraft a abouti à la création d'une plateforme d'achat en ligne moderne, esthétiquement attrayante et fonctionnelle. Le nouveau site propose un parcours d'achat rationalisé, permettant aux clients de sélectionner facilement le bateau qui correspond à leurs besoins. Les informations détaillées sur chaque produit, les visuels de qualité, et le processus de commande simplifié contribuent à une expérience utilisateur optimale. AtlantiCraft dispose désormais d'un site web qui reflète son professionnalisme et facilite la conversion des visiteurs en clients satisfaits.",
+    "img_maquette": "maquette_Atlanticraft.png",
+    "img_ref": "Atlanticraft.png",
+    "couleurs": {
+      "couleur1": {"hex": "#269CE2", "nom": "Bleu"},
+      "couleur2": {"hex": "#000000", "nom": "Noir"},
+      "couleur3": {"hex": "#F2F2F2", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Poppins",
+    "typo2": "Poppins",
+    "timeline": "2 mois",
+    "url": "https://www.atlanticraft.fr/",
+    "website": "https://www.atlanticraft.fr/",
+    "category": "Wordpress"
+  },
+  {
+    "id": 6,
+    "titre": "Lou Garu",
+    "description": "Lou Garu est une entreprise spécialisée dans l'art de la tapisserie, alliant tradition et créativité depuis ses débuts. Forte d'une expertise remarquable, elle propose des créations uniques, mettant en valeur le savoir-faire artisanal dans le domaine de la tapiserie. L'entreprise s'engage à offrir des pièces de qualité exceptionnelle, reflétant le mariage harmonieux entre esthétisme et fonctionnalité.",
+    "challenge": "Le défi majeur auquel nous avons été confrontés chez Lou Garu était la nécessité d'une refonte complète de leur site internet. La tâche consistait à intégrer une nouvelle dimension e-commerce, permettant à l'entreprise de présenter et de commercialiser ses magnifiques tapisseries en ligne. Cela impliquait la mise en place d'une interface utilisateur conviviale, d'un système de navigation intuitif, et d'une infrastructure robuste pour soutenir l'activité de vente en ligne.",
+    "goal": "L'objectif principal de cette réalisation était de propulser Lou Garu dans l'ère numérique en élargissant son horizon commercial grâce à une plateforme e-commerce efficace. Nous avons visé à offrir aux clients une expérience en ligne immersive, tout en préservant l'essence artistique et la qualité artisanale des produits. En résumé, il s'agissait de créer un site web moderne, fonctionnel et esthétiquement plaisant, capable de mettre en valeur la richesse du catalogue de tapisseries et de faciliter le processus d'achat",
+    "result": "À la fin du projet, Lou Garu dispose désormais d'un site web entièrement repensé et fonctionnel, offrant une expérience utilisateur optimale. La nouvelle section e-commerce permet aux clients d'explorer facilement la collection, de faire des achats en toute simplicité, et de bénéficier d'informations détaillées sur chaque création. L'intégration réussie de cette plateforme a ouvert de nouvelles opportunités commerciales pour Lou Garu, renforçant sa présence en ligne et élargissant sa clientèle.",
+    "img_maquette": "maquette_Lougaru.png",
+    "img_ref": "Lougaru.png",
+    "couleurs": {
+      "couleur1": {"hex": "#2C4460", "nom": "Bleu"},
+      "couleur2": {"hex": "#222222", "nom": "Noir"},
+      "couleur3": {"hex": "#7B8184", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Milonga",
+    "typo2": "Work Sans",
+    "timeline": "3 mois",
+    "url": "/",
+    "website": "/",
+    "category": "Woocommerce"
+  },
+  {
+    "id": 7,
+    "titre": "Veuve Amiot",
+    "description": "Veuve Amiot se distingue en tant que créateur de bulles d'exception, avec une renommée solidement ancrée dans l'art de la vinification depuis des décennies. Réputée pour ses caves à vin troglodytes, l'entreprise incarne l'alliance parfaite entre tradition et innovation. Veuve Amiot s'engage avec passion dans la production de vins mousseux de qualité supérieure, témoignant de son héritage viticole authentique.",
+    "challenge": "Le défi auquel nous avons été confrontés résidait dans la réponse à un appel d'offres émanant de Veuve Amiot. La tâche consistait à proposer un design complet pour la page d'accueil de leur site web. Nous devions capter l'essence distinctive de l'entreprise, mettant en avant ses créations uniques et l'atmosphère particulière de ses caves à vin troglodytes. Malgré la compétition, notre objectif était de concevoir une interface accueillante et esthétiquement harmonieuse, reflétant la qualité et l'élégance associées à la marque.",
+    "goal": "L'objectif principal de cette réalisation était de présenter à Veuve Amiot une proposition de design novatrice pour la page d'accueil de son site web. Nous aspirions à capturer l'identité distincte de l'entreprise et à transmettre une expérience en ligne immersive pour les visiteurs. Bien que la réalisation complète du site n'ait pas été attribuée, notre objectif demeurait de fournir une proposition qui reflète fidèlement l'image et les valeurs de Veuve Amiot.",
+    "result": "Malheureusement, bien que notre proposition ait été soumise avec soin, nous n'avons pas été retenus pour la création complète du site de Veuve Amiot. Néanmoins, notre démarche a permis de présenter un design de page d'accueil élaboré, mettant en lumière l'élégance et le caractère unique de l'entreprise. Bien que notre contribution se soit arrêtée à cette étape, nous sommes fiers d'avoir participé au processus et d'avoir offert une vision créative pour la vitrine en ligne de Veuve Amiot.",
+    "img_maquette": "maquette_Veuveamiot.png",
+    "img_ref": "Veuveamiot.png",
+    "couleurs": {
+      "couleur1": {"hex": "#03256E", "nom": "Bleu"},
+      "couleur2": {"hex": "#151515", "nom": "Noir"},
+      "couleur3": {"hex": "#707070", "nom": "Gris"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Playfair Display",
+    "typo2": "Lato",
+    "timeline": "1 semaine",
+    "url": "/",
+    "website": "/",
+    "category": "UI design"
+  },
+  {
+    "id": 8,
+    "titre": "Cabinet Envergure",
+    "description": "Le cabinet de psychologie basé à Saint-Malo offre un soutien psychologique spécialisé aux entreprises en les aidant à trouver des solutions adaptées. Fort d'une expertise approfondie, le cabinet se positionne en tant que partenaire stratégique, combinant la compréhension des dynamiques humaines à une approche pragmatique pour résoudre les défis organisationnels. L'équipe de professionnels qualifiés s'engage à promouvoir le bien-être des individus au sein de l'environnement professionnel.",
+    "challenge": "Le défi majeur auquel nous avons été confrontés consistait en une réfection complète du site web du cabinet, initialement construit sur la plateforme WordPress. La tâche impliquait la modernisation de l'interface tout en préservant intégralement les fonctionnalités existantes. Nous devions créer un design ergonomique et professionnel reflétant la nature spécialisée du cabinet tout en facilitant l'accès aux ressources et informations pertinentes pour les entreprises.",
+    "goal": "L'objectif principal de cette réalisation était de revitaliser la présence en ligne du cabinet de psychologie, en mettant à jour son site WordPress tout en conservant les fonctionnalités existantes. Nous aspirions à créer une plateforme plus conviviale et esthétiquement moderne, offrant aux entreprises une expérience de navigation intuitive tout en mettant en valeur l'expertise du cabinet. Le but ultime était d'accroître la visibilité en ligne et de renforcer la crédibilité de l'entreprise auprès de son public cible.",
+    "result": "À la fin du projet, le site web du cabinet de psychologie à Saint-Malo a été entièrement rénové avec succès. Nous avons conservé et optimisé toutes les fonctionnalités existantes, tout en introduisant un nouveau design épuré et professionnel. La navigation a été simplifiée, permettant aux entreprises de trouver rapidement les informations nécessaires. Des éléments visuels attrayants ont été intégrés pour renforcer la présentation des services. En résumé, cette refonte a abouti à un site web revitalisé, offrant une meilleure expérience utilisateur et renforçant la présence en ligne du cabinet de psychologie.",
+    "img_maquette": "maquette_Envergure.png",
+    "img_ref": "Envergure.png",
+    "couleurs": {
+      "couleur1": {"hex": "#993400", "nom": "Orange"},
+      "couleur2": {"hex": "#004C4C", "nom": "Vert"},
+      "couleur3": {"hex": "#121212", "nom": "Noir"},
+      "couleur4": {"hex": "#FFFFFF", "nom": "Blanc"}
+    },
+    "typo1": "Cormorant",
+    "typo2": "Poppins",
+    "timeline": "1 mois",
+    "url": "https://cabinetenvergure.fr/",
+    "website": "https://cabinetenvergure.fr/",
+    "category": "Wordpress"
+  }
+]
